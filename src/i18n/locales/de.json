@@ -1,0 +1,48 @@
+{
+  "auth": {
+    "login": {
+      "title": "Willkommen zurück",
+      "subtitle": "Melden Sie sich bei Ihrem Konto an",
+      "email": "E-Mail-Adresse",
+      "password": "Passwort",
+      "submit": "Anmelden",
+      "noAccount": "Noch kein Konto?",
+      "signUp": "Registrieren",
+      "error": {
+        "invalidCredentials": "Ungültige E-Mail oder Passwort",
+        "generic": "Bei der Anmeldung ist ein Fehler aufgetreten"
+      }
+    },
+    "register": {
+      "title": "Konto erstellen",
+      "subtitle": "Treten Sie Liftrix heute bei",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "password": "Passwort",
+      "submit": "Registrieren",
+      "hasAccount": "Haben Sie bereits ein Konto?",
+      "signIn": "Anmelden",
+      "passwordStrength": {
+        "weak": "Schwach",
+        "medium": "Mittel",
+        "strong": "Stark"
+      },
+      "error": {
+        "emailTaken": "Diese E-Mail wird bereits verwendet",
+        "generic": "Bei der Registrierung ist ein Fehler aufgetreten"
+      }
+    }
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "agents": {
+      "title": "KI-Agenten",
+      "trainer": "Personal Trainer",
+      "nutritionist": "Ernährungsberater",
+      "motivational": "Motivationscoach",
+      "medical": "Medizinische Berichte"
+    },
+    "settings": "Einstellungen",
+    "logout": "Abmelden"
+  }
+}

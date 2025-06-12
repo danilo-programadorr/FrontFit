@@ -1,0 +1,48 @@
+{
+  "auth": {
+    "login": {
+      "title": "Bentornato",
+      "subtitle": "Accedi al tuo account",
+      "email": "Indirizzo email",
+      "password": "Password",
+      "submit": "Accedi",
+      "noAccount": "Non hai un account?",
+      "signUp": "Registrati",
+      "error": {
+        "invalidCredentials": "Email o password non validi",
+        "generic": "Si è verificato un errore durante l'accesso"
+      }
+    },
+    "register": {
+      "title": "Crea un account",
+      "subtitle": "Unisciti a Liftrix oggi",
+      "fullName": "Nome completo",
+      "email": "Indirizzo email",
+      "password": "Password",
+      "submit": "Registrati",
+      "hasAccount": "Hai già un account?",
+      "signIn": "Accedi",
+      "passwordStrength": {
+        "weak": "Debole",
+        "medium": "Media",
+        "strong": "Forte"
+      },
+      "error": {
+        "emailTaken": "Questa email è già in uso",
+        "generic": "Si è verificato un errore durante la registrazione"
+      }
+    }
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "agents": {
+      "title": "Agenti IA",
+      "trainer": "Personal Trainer",
+      "nutritionist": "Nutrizionista",
+      "motivational": "Coach Motivazionale",
+      "medical": "Referti Medici"
+    },
+    "settings": "Impostazioni",
+    "logout": "Esci"
+  }
+}
