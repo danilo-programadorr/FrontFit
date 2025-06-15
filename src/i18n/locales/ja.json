@@ -1,0 +1,48 @@
+{
+  "auth": {
+    "login": {
+      "title": "おかえりなさい",
+      "subtitle": "アカウントにログイン",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "submit": "ログイン",
+      "noAccount": "アカウントをお持ちでない方",
+      "signUp": "新規登録",
+      "error": {
+        "invalidCredentials": "メールアドレスまたはパスワードが無効です",
+        "generic": "ログイン中にエラーが発生しました"
+      }
+    },
+    "register": {
+      "title": "アカウント作成",
+      "subtitle": "今すぐLiftrixに参加",
+      "fullName": "氏名",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "submit": "登録",
+      "hasAccount": "すでにアカウントをお持ちの方",
+      "signIn": "ログイン",
+      "passwordStrength": {
+        "weak": "弱い",
+        "medium": "普通",
+        "strong": "強い"
+      },
+      "error": {
+        "emailTaken": "このメールアドレスは既に使用されています",
+        "generic": "登録中にエラーが発生しました"
+      }
+    }
+  },
+  "navigation": {
+    "dashboard": "ダッシュボード",
+    "agents": {
+      "title": "AIエージェント",
+      "trainer": "パーソナルトレーナー",
+      "nutritionist": "栄養士",
+      "motivational": "モチベーションコーチ",
+      "medical": "医療レポート"
+    },
+    "settings": "設定",
+    "logout": "ログアウト"
+  }
+}

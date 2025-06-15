@@ -1,0 +1,48 @@
+{
+  "auth": {
+    "login": {
+      "title": "欢迎回来",
+      "subtitle": "登录您的账户",
+      "email": "电子邮箱",
+      "password": "密码",
+      "submit": "登录",
+      "noAccount": "还没有账户？",
+      "signUp": "注册",
+      "error": {
+        "invalidCredentials": "邮箱或密码无效",
+        "generic": "登录时发生错误"
+      }
+    },
+    "register": {
+      "title": "创建账户",
+      "subtitle": "立即加入Liftrix",
+      "fullName": "全名",
+      "email": "电子邮箱",
+      "password": "密码",
+      "submit": "注册",
+      "hasAccount": "已有账户？",
+      "signIn": "登录",
+      "passwordStrength": {
+        "weak": "弱",
+        "medium": "中",
+        "strong": "强"
+      },
+      "error": {
+        "emailTaken": "该邮箱已被使用",
+        "generic": "注册时发生错误"
+      }
+    }
+  },
+  "navigation": {
+    "dashboard": "仪表板",
+    "agents": {
+      "title": "AI助手",
+      "trainer": "私人教练",
+      "nutritionist": "营养师",
+      "motivational": "激励教练",
+      "medical": "医疗报告"
+    },
+    "settings": "设置",
+    "logout": "退出登录"
+  }
+}
